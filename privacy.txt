@@ -1,0 +1,97 @@
+# Privacy Policy for X Spaces Plus
+
+**Last Updated:** November2025
+
+## Introduction
+
+X Spaces Enhanced ("the Extension") is a browser extension that enhances the X (formerly Twitter) Spaces experience. This privacy policy explains how the Extension handles user data.
+
+## Data Collection and Usage
+
+### What Data We Access
+
+The Extension accesses the following data locally in your browser:
+
+1. **Authentication Cookies**
+   - We access cookies from x.com, twitter.com, and pscp.tv domains
+   - These cookies are used solely to authenticate API requests to X/Twitter's servers
+   - Cookies are never transmitted to any servers we control or any third-party servers
+
+2. **X Spaces Content**
+   - Live transcripts and captions from X Spaces you join
+   - Emoji reactions from X Spaces you participate in
+   - Space metadata (ID, title, media information)
+   - All content is processed locally in your browser and temporarily stored in memory
+
+3. **User Preferences**
+   - Your agreement to the usage warning
+   - UI position and display preferences
+   - Stored locally using Chrome's storage API
+
+4. **Downloaded Audio**
+   - Space replay audio is downloaded directly from X/Twitter's servers to your device
+   - No intermediary servers are involved
+
+### How We Use This Data
+
+All data is processed **locally in your browser** to provide the following features:
+
+- Display live transcripts and captions
+- Show emoji reactions
+- Enable custom emoji sending
+- Download Space replay audio
+- Toggle recording settings for Spaces you host
+- Customize Space replay titles
+
+### Data Transmission
+
+**Important:** The Extension does NOT transmit any data to servers we control. The Extension only communicates with:
+
+- **X/Twitter's official servers** - Using your existing authentication to access X Spaces features
+- Your communication with X/Twitter is subject to [X's Privacy Policy](https://twitter.com/privacy)
+
+### Data Storage
+
+- All data is stored temporarily in your browser's memory while the Extension is active
+- User preferences are stored locally using Chrome's storage API
+- No data persists on remote servers
+- All data is removed when you uninstall the Extension or clear your browser data
+
+## Third-Party Services
+
+The Extension only interacts with X/Twitter's official services:
+- x.com
+- twitter.com  
+- proxsee.pscp.tv
+- guest.pscp.tv
+
+Your use of these services is governed by [X's Privacy Policy](https://twitter.com/privacy) and [Terms of Service](https://twitter.com/tos).
+
+## Data We Do NOT Collect
+
+We do not:
+- Collect any personal information
+- Track your browsing activity
+- Transmit data to our servers (we don't have any servers)
+- Sell or share your data with third parties
+- Use analytics or tracking tools
+- Store data on remote servers
+
+## Your Rights
+
+You have complete control over your data:
+- All data processing happens locally in your browser
+- You can uninstall the Extension at any time to stop all data processing
+- Clearing your browser data will remove all Extension preferences
+
+## Changes to This Policy
+
+We may update this privacy policy from time to time. Changes will be reflected in the "Last Updated" date at the top of this policy.
+
+## Contact
+
+If you have questions about this privacy policy, please email blankspeaker@outlook.com
+
+---
+
+**Summary:** X Spaces Plus processes all data locally in your browser to enhance your X Spaces experience. We do not collect, store, or transmit any user data to our servers or third parties. Your data stays on your device and is only shared with X/Twitter's servers using your existing authentication
